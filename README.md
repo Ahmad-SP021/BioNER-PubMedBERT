@@ -73,6 +73,9 @@ and → O
 lungs → B-Anatomical_entity
 
 
+Note: Pretrained model weights (ner_model.pt) are not included in the repo. You can retrain using the provided code or request the model if needed.
+
+
 
 👨‍💻 Author
 Ahmad Paknezhad
